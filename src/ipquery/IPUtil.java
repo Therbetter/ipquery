@@ -1,3 +1,5 @@
+package ipquery;
+
 public class IPUtil {
 	/**
 	 * ip地址转成long型数字

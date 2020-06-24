@@ -1,3 +1,5 @@
+package ipquery;
+
 /**
  * @description:
  * @author: xutao
